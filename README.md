@@ -1,6 +1,6 @@
 # Staybnb Frontend Project
 
-An Airbnb-inspired frontend website built using HTML, CSS, and JavaScript.
+An Airbnb-inspired responsive frontend website built using HTML, CSS, and JavaScript.
 
 ## Features
 
