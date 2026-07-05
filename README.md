@@ -26,7 +26,7 @@ staybnb-frontend_project/
 ├── index.html
 ├── listing.html
 ├── house.html
-├── css/ style.css
+├── style.css
 ├── images/
 ├── screenshots/
 └── README.md
