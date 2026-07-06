@@ -16,7 +16,7 @@ An Airbnb-inspired responsive frontend website built using HTML, CSS, and JavaSc
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (Basic)
 
 ## Project Structure
 
